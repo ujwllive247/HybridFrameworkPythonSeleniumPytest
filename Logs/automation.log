@@ -1,0 +1,19 @@
+05/12/25 11:22:11 AM: INFO: *********** Verifying the Login Test ***********
+05/12/25 11:22:18 AM: ERROR: *********** Login test is Fail ***********
+05/12/25 11:40:30 AM: INFO: *********** Test_002_DDT_Login ***********
+05/12/25 11:40:30 AM: INFO: *********** Verifying Login DDT Test ***********
+05/12/25 11:42:14 AM: INFO: *********** Test_002_DDT_Login ***********
+05/12/25 11:42:14 AM: INFO: *********** Verifying Login DDT Test ***********
+05/12/25 11:42:56 AM: INFO: *********** Test_002_DDT_Login ***********
+05/12/25 11:42:56 AM: INFO: *********** Verifying Login DDT Test ***********
+05/12/25 11:43:39 AM: INFO: *********** Test_002_DDT_Login ***********
+05/12/25 11:43:39 AM: INFO: *********** Verifying Login DDT Test ***********
+05/12/25 11:47:14 AM: INFO: *********** Test_002_DDT_Login ***********
+05/12/25 11:47:14 AM: INFO: *********** Verifying Login DDT Test ***********
+05/12/25 11:47:21 AM: ERROR: Login should have passed but failed for user: admin@yourstore.com
+05/12/25 11:49:46 AM: INFO: *********** Test_002_DDT_Login ***********
+05/12/25 11:49:46 AM: INFO: *********** Verifying Login DDT Test ***********
+05/12/25 11:50:00 AM: ERROR: Login should have passed but failed for user: admin@yourstore.com
+05/12/25 11:50:30 AM: INFO: *********** Test_002_DDT_Login ***********
+05/12/25 11:50:30 AM: INFO: *********** Verifying Login DDT Test ***********
+05/12/25 11:50:44 AM: ERROR: Login should have passed but failed for user: admin@yourstore.com
